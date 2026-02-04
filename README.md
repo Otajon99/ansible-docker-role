@@ -1,7 +1,6 @@
 
 ---
 
-```
 # Ansible Role: Install Docker (RHEL & Debian)
 
 This Ansible role installs the **latest version of Docker CE** on both:
