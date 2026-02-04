@@ -1,8 +1,7 @@
-Bet — here’s your **entire assignment in clean `.md` format** so you can drop it straight into `README.md` in your GitHub repo.
 
 ---
 
-```md
+```
 # Ansible Role: Install Docker (RHEL & Debian)
 
 This Ansible role installs the **latest version of Docker CE** on both:
@@ -17,7 +16,6 @@ The role also **enables and starts** the Docker service using **systemd**.
 ## 📁 Role Structure
 
 ```
-
 ansible-docker-role/
 │
 ├── defaults/
@@ -35,8 +33,8 @@ ansible-docker-role/
 │   └── main.yml
 │
 └── README.md
-
 ````
+
 
 ---
 
