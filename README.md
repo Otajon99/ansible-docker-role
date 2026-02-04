@@ -211,28 +211,3 @@ git remote add origin <your-repo-url>
 git push -u origin main
 ```
 
-Send the repository link via Teams.
-
----
-
-## 🎯 Result
-
-This role:
-
-✔ Detects OS automatically
-✔ Installs latest Docker CE
-✔ Works on Debian & RHEL families
-✔ Starts and enables Docker service
-✔ Follows Ansible best practices
-
----
-
-**Author:** Your Name
-**Role Name:** docker_install
-
-```
-
----
-
-If you want, next I can help you make this **Ansible Galaxy–ready** (extra credit level stuff).
-```
